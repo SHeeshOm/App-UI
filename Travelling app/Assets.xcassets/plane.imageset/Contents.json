@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "airplane-color-line-icon-powered-fixed-wing-aircraft-pictogram-for-web-page-mobile-app-promo-ui-ux-gui-design-element-editable-stroke-2GF7W7A.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
